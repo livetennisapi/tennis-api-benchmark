@@ -10,7 +10,7 @@ provider you point it at, which is the only reason its output about ours is wort
 ## Install
 
 ```bash
-git clone https://github.com/livetennisapi/tennis-api-benchmark
+git clone https://github.com/livetennisapi/tennis-api-benchmark.git
 cd tennis-api-benchmark
 pip install -r requirements.txt
 ```
@@ -76,3 +76,8 @@ If you get a result that contradicts something published on besttennisapi.com, o
 your JSON output. A figure we cannot reproduce is one we need to withdraw or explain.
 
 MIT licensed.
+
+## How to cite
+
+[CITATION.cff](CITATION.cff) holds the citation details in the Citation File Format.
+[codemeta.json](codemeta.json) carries the same facts for software archives and catalogues.

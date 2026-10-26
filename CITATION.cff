@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this tool or its method in a paper, a report or a comparison, please cite it as below."
+title: "tennis-api-benchmark: measure any tennis API against a published method"
+type: software
+version: 0.1.0
+date-released: "2026-10-23"
+authors:
+  - name: "Live Tennis API"
+    website: "https://livetennisapi.com"
+    email: "hello@livetennisapi.com"
+repository-code: "https://github.com/livetennisapi/tennis-api-benchmark"
+url: "https://github.com/livetennisapi/tennis-api-benchmark"
+license: MIT
+abstract: >-
+  A small Python tool that measures the response time and observed
+  availability of a tennis data API from one stated vantage point. It
+  refuses to print a percentile from too few clean samples and never counts
+  a rate-limit response as downtime. The arithmetic lives in one module with
+  no network code, so anyone can check it. It is published by JSB Holdings
+  LLC, which operates Live Tennis API, and works against any provider.
+keywords:
+  - benchmark
+  - API testing
+  - latency
+  - availability
+  - reproducibility
+  - sports data
+  - tennis
