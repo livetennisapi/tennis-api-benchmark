@@ -8,8 +8,8 @@ authors:
   - name: "Live Tennis API"
     website: "https://livetennisapi.com"
     email: "hello@livetennisapi.com"
-repository-code: "https://gitlab.com/livetennisapi/tennis-api-benchmark"
-url: "https://gitlab.com/livetennisapi/tennis-api-benchmark"
+repository-code: "https://github.com/livetennisapi/tennis-api-benchmark"
+url: "https://github.com/livetennisapi/tennis-api-benchmark"
 license: MIT
 abstract: >-
   A small Python tool that measures the response time and observed

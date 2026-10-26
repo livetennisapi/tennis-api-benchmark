@@ -10,7 +10,7 @@ provider you point it at, which is the only reason its output about ours is wort
 ## Install
 
 ```bash
-git clone https://gitlab.com/livetennisapi/tennis-api-benchmark.git
+git clone https://github.com/livetennisapi/tennis-api-benchmark.git
 cd tennis-api-benchmark
 pip install -r requirements.txt
 ```

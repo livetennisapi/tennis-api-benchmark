@@ -7,8 +7,8 @@
   "dateCreated": "2026-09-13",
   "datePublished": "2026-10-23",
   "license": "https://spdx.org/licenses/MIT",
-  "codeRepository": "https://gitlab.com/livetennisapi/tennis-api-benchmark",
-  "issueTracker": "https://gitlab.com/livetennisapi/tennis-api-benchmark/-/issues",
+  "codeRepository": "https://github.com/livetennisapi/tennis-api-benchmark",
+  "issueTracker": "https://github.com/livetennisapi/tennis-api-benchmark/issues",
   "programmingLanguage": "Python",
   "runtimePlatform": "Python 3",
   "softwareRequirements": [
