@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-11-08T17:44:52Z",
+  "note": "Processing time inside the provider, from two provider stamps. Not the delay between a point being played and the data reaching anyone.",
+  "run": {
+    "base_url": "https://api.livetennisapi.com/api/public/v1",
+    "channels": [
+      "slate:all",
+      "point:slate"
+    ],
+    "duration_requested_s": 1800.0,
+    "live_checks": [
+      {
+        "at": "2026-11-08T17:14:51+00:00",
+        "by_tour": {
+          "None": 6,
+          "atp": 2,
+          "challenger": 9,
+          "itf": 9
+        },
+        "live": 26
+      },
+      {
+        "at": "2026-11-08T17:19:51+00:00",
+        "by_tour": {
+          "None": 5,
+          "atp": 1,
+          "challenger": 8,
+          "itf": 8
+        },
+        "live": 22
+      },
+      {
+        "at": "2026-11-08T17:24:52+00:00",
+        "by_tour": {
+          "None": 5,
+          "challenger": 8,
+          "itf": 8
+        },
+        "live": 21
+      },
+      {
+        "at": "2026-11-08T17:29:53+00:00",
+        "by_tour": {
+          "None": 4,
+          "challenger": 8,
+          "itf": 7
+        },
+        "live": 19
+      },
+      {
+        "at": "2026-11-08T17:34:56+00:00",
+        "by_tour": {
+          "None": 4,
+          "challenger": 9,
+          "itf": 7
+        },
+        "live": 20
+      },
+      {
+        "at": "2026-11-08T17:39:57+00:00",
+        "by_tour": {
+          "None": 4,
+          "atp": 1,
+          "challenger": 9,
+          "itf": 8
+        },
+        "live": 22
+      },
+      {
+        "at": "2026-11-08T17:44:52+00:00",
+        "by_tour": {
+          "None": 4,
+          "atp": 1,
+          "challenger": 9,
+          "itf": 8
+        },
+        "live": 22
+      }
+    ],
+    "method": "https://besttennisapi.com/methodology#latency",
+    "reconnects": 0,
+    "vantage": "Germany, Hetzner network",
+    "window_utc": [
+      "2026-11-08T17:14:50+00:00",
+      "2026-11-08T17:44:52+00:00"
+    ]
+  },
+  "summary": {
+    "min_sample": 30,
+    "point": {
+      "clean": 624,
+      "dropped_negative": 0,
+      "first_publication": {
+        "clean": 624,
+        "processing_p50_ms": "43",
+        "processing_spread_ms": {
+          "max": 22182.3,
+          "min": 2.3,
+          "p10": 12.7,
+          "p25": 22.4,
+          "p50": 43.1,
+          "p75": 95.8,
+          "p90": 254.9,
+          "p99": 645.3
+        },
+        "states": 624
+      },
+      "frames": 624,
+      "frames_with_both_stamps": 624,
+      "matches": 25,
+      "processing_p50_ms": "43",
+      "processing_spread_ms": {
+        "max": 22182.3,
+        "min": 2.3,
+        "p10": 12.7,
+        "p25": 22.4,
+        "p50": 43.1,
+        "p75": 95.8,
+        "p90": 254.9,
+        "p99": 645.3
+      },
+      "transport_spread_ms_not_published": {
+        "max": 440.8,
+        "min": 47.3,
+        "p10": 50.0,
+        "p25": 51.9,
+        "p50": 52.9,
+        "p75": 55.1,
+        "p90": 60.0,
+        "p99": 82.0
+      }
+    },
+    "score": {
+      "clean": 1565,
+      "dropped_negative": 0,
+      "first_publication": {
+        "clean": 799,
+        "processing_p50_ms": "100",
+        "processing_spread_ms": {
+          "max": 1562.3,
+          "min": 13.9,
+          "p10": 34.7,
+          "p25": 55.3,
+          "p50": 99.9,
+          "p75": 194.0,
+          "p90": 388.1,
+          "p99": 1036.1
+        },
+        "states": 799
+      },
+      "frames": 1565,
+      "frames_with_both_stamps": 1565,
+      "matches": 27,
+      "processing_p50_ms": "168",
+      "processing_spread_ms": {
+        "max": 2097.9,
+        "min": 13.9,
+        "p10": 48.5,
+        "p25": 87.9,
+        "p50": 167.8,
+        "p75": 310.2,
+        "p90": 609.6,
+        "p99": 1396.4
+      },
+      "transport_spread_ms_not_published": {
+        "max": 835.8,
+        "min": 47.9,
+        "p10": 51.6,
+        "p25": 52.8,
+        "p50": 54.0,
+        "p75": 57.0,
+        "p90": 62.2,
+        "p99": 89.8
+      }
+    }
+  }
+}
