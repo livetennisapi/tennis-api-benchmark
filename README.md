@@ -35,6 +35,7 @@ one recorded without saying where it was measured from cannot be interpreted by 
 | Response time | Sequential spaced GETs; median; non-2xx timings discarded | any key |
 | Observed availability | Success share over the run; 429s excluded from the denominator | any key |
 | Processing latency | Median of `published_at` minus the event stamp over every push frame (`python -m benchmark.push`) | a push feed that carries both stamps |
+| Regional response time | One keyless URL timed every hour from probes on six continents (`python -m benchmark.regional`). Collecting, no figures yet: [method](results/regional-probe/README.md) | a URL that needs no key |
 
 Published runs, with their raw frames, are in [`results/`](results/).
 
