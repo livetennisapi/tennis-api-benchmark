@@ -1,0 +1,1 @@
+measured_at,source,measurement_id,continent,country,city,asn,network,url,status_code,total_ms,dns_ms,tcp_ms,tls_ms,first_byte_ms,download_ms,edge,error
