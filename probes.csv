@@ -220,3 +220,16 @@ measured_at,source,measurement_id,continent,country,city,asn,network,url,status_
 2026-11-14T03:21:40Z,globalping,2OnAIVY2bT0zCfAtC00021V4T,AF,NG,Lagos,214354,SiteHUB Agency,https://api.livetennisapi.com/api/public/v1/health,200,540,114,105,111,208,2,LHR,
 2026-11-14T03:21:40Z,globalping,2OnAIVY2bT0zCfAtC00021V4T,AF,EG,Cairo,136907,HUAWEI CLOUDS,https://api.livetennisapi.com/api/public/v1/health,,,,,,,,,probe status failed
 2026-11-14T03:22:01Z,github-runner,,,,,,,https://api.livetennisapi.com/api/public/v1/health,200,153,,,,,,SJC,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,EU,FI,Helsinki,24940,Hetzner Online,https://api.livetennisapi.com/api/public/v1/health,200,212,7,18,27,159,1,WAW,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,EU,DE,Falkenstein,24940,Hetzner Online,https://api.livetennisapi.com/api/public/v1/health,200,161,1,8,15,136,1,FRA,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,NA,US,Los Angeles,36352,HostPapa,https://api.livetennisapi.com/api/public/v1/health,200,122,10,3,24,81,4,LAX,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,NA,US,Buffalo,36352,HostPapa,https://api.livetennisapi.com/api/public/v1/health,200,136,38,14,26,55,3,ORD,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,SA,BR,Sao Paulo,31898,Oracle,https://api.livetennisapi.com/api/public/v1/health,,,,,,,,,probe status failed
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,SA,BR,Sao Paulo,27699,Telefonica,https://api.livetennisapi.com/api/public/v1/health,,,,,,,,,probe status failed
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,AS,JP,Tokyo,31898,Oracle,https://api.livetennisapi.com/api/public/v1/health,200,2862,16,2063,12,768,3,NRT,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,AS,SG,Singapore,59253,LeaseWeb,https://api.livetennisapi.com/api/public/v1/health,200,309,11,5,11,277,5,SIN,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,OC,AU,Sydney,31898,Oracle,https://api.livetennisapi.com/api/public/v1/health,,,,,,,,,probe status failed
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,OC,AU,Sydney,142064,VERGETEL,https://api.livetennisapi.com/api/public/v1/health,200,269,9,1,21,235,3,SYD,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,AF,NG,Lagos,214354,SiteHUB Agency,https://api.livetennisapi.com/api/public/v1/health,200,458,14,105,116,217,6,LHR,
+2026-11-14T10:41:01Z,globalping,2Dt4TXujICbSb4GoP00021VBZ,AF,EG,Cairo,136907,HUAWEI CLOUDS,https://api.livetennisapi.com/api/public/v1/health,,,,,,,,,probe status failed
+2026-11-14T10:41:22Z,github-runner,,,,,,,https://api.livetennisapi.com/api/public/v1/health,200,53,,,,,,IAD,
